@@ -1,0 +1,115 @@
+PhotoShop training tutorial 1
+
+Tool No 1:
+Marquee tool -> Selects the active work area.
+ShortCuts: 
+Adding multiple selects -> Shift + mouse right key
+Feather -> like border radius
+making circle -> shift + press mouse
+removing selection -> ctrl + D
+
+Tool No 2 : 
+
+Foreground and background -> To fill the color
+shortcuts: 
+coloring using foreground -> Alt + backspace
+coloring using background -> ctrl + backspace
+
+Tip : Moving image using mouse
+first press f and then click space bar along with mouse
+
+Tip : When working with laso selection use ctrl + J to get the selected part on new layer
+
+Tool No 3 :
+Quick Selection Tool
+
+To make the size of brush large press ] and to make it small press [ 
+To remove something from selection press atl + mouse
+
+Tip : Click ctrl + T to resize image and then press Enter
+
+Tool No 4:
+Crop Tool
+
+To permanently delete croped part check the delete croped pixels field
+To add some extra space in image check content-aware box
+To straight part of image use straighten
+To revert changes press Esc or revert button on crop header
+
+
+Tool No 5:
+Brush Tool
+
+Tips
+To make a horizontal line press shift + mouse left 
+To add points press shift and make dots it will automatically join them
+
+Tool No 6:
+Clone Stamp Tool
+Whenever working with cloning always use new layer
+
+To select the cloning area press alt + mouse left
+Now paint the area where you want to clone
+
+
+Tool No 7: 
+Healing Brush
+
+To patch the infected area
+Spot healing brush does not require any source it just left clicking
+
+Healing brush require source so to select source press alt + mouseLeft and then press left mouse key to patch
+
+Patch tool work differntly it selects the area in one go then patch the area
+
+Tool No 8:
+Content Aware [Move and extend] : [inside Healing tool]
+
+Content Aware Fill : [Fill the color of selected area also remove selected thing ] => [Location after selection shift + backspace]
+
+Tip : To Make a Copy of selected layers first select layers using shift + mousekey and then press alt + shift + ctrl + e
+
+
+Tool No 9:
+Eraser Tool 
+
+Erase the background
+
+Tool No 10:
+Blur , Sharpen , Smudge(to mix up thing)
+
+
+Tip : Undo and Redo
+
+Undo : ctrl + shift + z
+Redo : ctrl + z
+
+
+Tool No 11 : History Brush
+
+Bring Back the history of image
+
+
+Tool No 12 : Pen Tool 
+
+Used for very sensitive selecting like objects
+
+When making selection through pen tool make sure path is selected in [shape , path]
+
+To select circular area click on point and hold alt + mouse
+
+To reselect the area hold space and drag mouse on point
+
+To convert pen tool selection in selection click ctrl + enter and then make a layer using ctrl + j
+
+
+Tip : If you want to apply color only on the area that has some text than press ctrl + shift + backspace
+
+
+Raster smart object are the images that don't loose their pixels after resizing 
+To make any image as a RSO click on the image layer and press mouseRight key and their you get a Raster smart object
+
+
+Tip : Clip masking
+To do clip masking first select the layers then press alt + mouseLeft key
+
